@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Co-Coordinator",
+  "description": "HIPAA-compliant clinical trial management and protocol analysis tool. Securely manages study data using participant codes and AI-driven protocol extraction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
